@@ -5,7 +5,7 @@
       "items": [
         {
           "name": "Classic Doner",
-          "price": "350 tl",
+          "price": "350",
           "image": "images/Doner.jpg"
         }
       ]
@@ -15,7 +15,7 @@
       "items": [
         {
           "name": "Ayran",
-          "price": "20 tl",
+          "price": "20",
           "image": "images/Ayran.png"
         }
       ]
