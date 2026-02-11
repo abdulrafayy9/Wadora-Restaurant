@@ -17,7 +17,7 @@ fetch("menu.json")
           <img src="${item.image}" alt="${item.name}">
           <div class="item-info">
             <div>${item.name}</div>
-            <div class="price">$${item.price}</div>
+            <div class="price">₺${item.price}</div>
           </div>
         `;
 
